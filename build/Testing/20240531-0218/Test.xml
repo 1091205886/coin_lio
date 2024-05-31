@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240531-0218-Experimental"
+	Name="udi-MS-7B51"
+	Generator="ctest-3.23.0"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="udi-MS-7B51"
+	OSRelease="5.4.0-150-generic"
+	OSVersion="#167~18.04.1-Ubuntu SMP Wed May 24 00:51:42 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="32046"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="4499.99"
+	>
+	<Testing>
+		<StartDateTime>May 31 10:18 CST</StartDateTime>
+		<StartTestTime>1717121936</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 31 10:18 CST</EndDateTime>
+		<EndTestTime>1717121936</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

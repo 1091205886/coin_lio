@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/eigen3",
+                "/opt/ros/melodic/include",
+                "/usr/include/pcl-1.10",
+                "/usr/local/cuda-11.4/targets/x86_64-linux/include/**",
+                "/home/udi/multi_sensor_ws/devel/include/**",
+                "/home/udi/multi_sensor_ws/src/profiler/include/**",
+                "/home/udi/multi_sensor_ws/src/Sophus",
+                "/home/udi/Desktop/Degenerate/COIN-LIO/include/**",
+                "/home/udi/Desktop/Degenerate/COIN-LIO/include/ikd-Tree/**",
+                "/home/udi/Desktop/Degenerate/COIN-LIO/include/IKFoM_toolkit/**"
+            ],
+            "defines": [
+                "MAPPING",
+                "PRIVATE_MSGS"
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
